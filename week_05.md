@@ -14,4 +14,6 @@
 
 ## Career/Employability/Learning Insights
 - I think the biggest thing I learn this week was what I did in Assignment_01 by deleting lots of stuff from a parent theme is an in efficient way of doing things that will result broken websites as you try to implement more complex content and features. 
-- I actually got super frustrated by the end of Assignment_01.
+- I actually got super frustrated by the end of Assignment_01 as I spent more time mucking around with themes than I thought I would initially. I also lost my Joomla site to the mistake by not checking backups earlier on in the piece and just assumed it was okay.
+- This resulted in me having to re-do the Joomla site from scratch, which wasn't ideal and I had to submit the assignment later that I would have liked. I guess what I can learn from this is backups are super important, and making sure it's possible at the beginning of web dev project is beneficial. 
+- I another benefit of that mistake is I got some extra experience with Joomla that I didn't expect to get in the first place, and although I was re-creating what I had already done once before, the fact that it was way faster the second time around showed me that I had learnt more than I initially thought. 
